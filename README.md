@@ -1,21 +1,13 @@
 # duck2api
 
-
-
-# 交流群
-https://t.me/aurora_develop
-
 # Web端 
 
 访问http://你的服务器ip:8080/web
 
-![web使用](https://jsd.cdn.zzko.cn/gh/xiaozhou26/tuph@main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-07%20111706.png)
+![web使用](https://fastly.jsdelivr.net/gh/xiaozhou26/tuph@main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-07%20111706.png)
 
 ## Deploy
 
-
-### Render部署
-[![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 ### 编译部署
 
